@@ -1,0 +1,9 @@
+## Title: |r[|cff0070deNerdPack|r] Fishing Bot
+## Notes: A plugin for NerdPack.
+## Dependencies: NerdPack
+## Interface: 60200
+## Author: MrTheSoulz
+
+core.lua
+Fish.lua
+FishingBot.lua
