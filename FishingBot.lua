@@ -1,7 +1,7 @@
 local FshSpell = 131474
 
 -- Offsets
-local OBJECT_BOBBING_OFFSET = 0x1e0
+local OBJECT_BOBBING_OFFSET = 0x1C4
 local OBJECT_CREATOR_OFFSET = 0x30
 
 -- Vars
